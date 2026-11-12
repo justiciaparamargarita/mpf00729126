@@ -1,9 +1,10 @@
 ---
-fecha: "2022-08-10"
+fecha: "2022-06-28"
 expediente: "MPF00729126"
 original_filename: "MPF00729126_Art._199,_d).-_L_2303_Archivo_de_la_denuncia_y_actuaciones_de_prevención__Imposibilidad_de_promover_la_investigación_1656435968.pdf"
 fecha_creacion_pdf: "2022-06-28T14:06:08-03"
 origen_email: "fuentes/emails/fiscalias.gob.ar/revision-729126.e0632.eml"
+firma_digital: "ANDREA VERONICA SCANGA Jun 28 2022 14:06:09; firma: Signature is Valid.; certificado: Certificate has Expired"
 ---
 
 MPF CABA
