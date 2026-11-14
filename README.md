@@ -10,5 +10,5 @@ Deriva de: [CFP 1979/2022](https://github.com/justiciaparamargarita/cfp1979), [M
 
 - 2022-06-28 [Fiscalia 21 archivo imposibilidad investigar](2022/06/28/fiscalia_21_archivo_imposibilidad_investigar.e0632.md)
 - 2022-08-10 [Mail «REVISION 729126» · yo → fiscaliapcyf21@ (2 mensajes)](2022/08/10/hilo-revision-729126.e0626.md)
-- 2022-08-10 [Mail «Re: REVISION 729126»](2022/08/10/revision-729126.e0632.md)
-- 2026-11-09 [Mail «MPF 729126 – Estado del pedido de revisión del 10/08/2022»](2026/11/09/estado-del-pedido-de-revision.e1253.md)
+- 2022-08-10 [Mail «REVISION 729126»](2022/08/10/revision-729126.e0632.md)
+- 2026-11-09 [Mail «Estado del pedido de revisión del 10/08/2022»](2026/11/09/estado-del-pedido-de-revision.e1253.md)
